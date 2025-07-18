@@ -1,0 +1,97 @@
+
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{resume}
+\author{Arun Saini}
+\date{July 2026}\documentclass[a4paper,10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{setspace}
+\pagestyle{empty}
+
+% Define formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\setlength{\parindent}{0pt}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue,
+    linkcolor=black
+}
+
+\begin{document}
+
+% Header
+\begin{center}
+    {\LARGE \textbf{Arun Saini}} \\
+    Full Stack Developer \\
+    \href{mailto:arunsaini@email.com}{shyamzacx@gmail.com} \quad | \quad +91-9717802862 \\
+    \href{https://www.linkedin.com/in/arun-saini-994102348/}{LinkedIn} \quad | \quad \href{https://github.com/950322104020/Arun-saini}{GitHub} \quad | \quad \href{https://arunsaini.dev}{Portfolio} \\
+    Noida, Uttar pradesh, India
+\end{center}
+
+\vspace{1em}
+
+% Summary
+\section*{Summary}
+Motivated Full Stack Developer with hands-on experience in both frontend and backend technologies. Skilled in creating scalable web applications using modern frameworks and tools. Eager to contribute to collaborative and innovative teams.
+
+% Education
+\section*{Education}
+\textbf{B.E in Computer Science Engineering} \\
+Grace College Of Engineering, Tamil Nadu \hfill \textit{Expected Graduation: 2026}
+
+% Skills Summary
+\section*{Technical Skills}
+\begin{itemize}[leftmargin=*, noitemsep]
+  \item \textbf{Frontend:} HTML5, CSS3, JavaScript, React.js, Flutter
+  \item \textbf{Backend:} Node.js, PHP, Python
+  \item \textbf{Databases:} MySQL, MongoDB, Firebase
+  \item \textbf{Tools \& Others:} Git, GitHub, VS Code, REST APIs, Firebase Auth, Hosting
+\end{itemize}
+
+% Projects
+\section*{Projects}
+\textbf{School Website – Yehbon Public School} \hfill HTML, CSS, JS \\
+Built a fully responsive school website with modern UI, photo gallery, contact form, and dark/light mode.
+
+\textbf{Realtime Chat App} \hfill Node.js, Socket.io \\
+Developed a real-time messaging app with chat rooms using WebSockets for instant communication.
+
+\textbf{Admin Dashboard} \hfill PHP, MySQL \\
+Created an admin panel for uploading/deleting school content, with secure login and media management.
+
+\textbf{Portfolio Website} \hfill HTML, CSS, JS \\
+Designed a single-page portfolio to showcase projects and skills. Deployed on Netlify.
+
+% Certifications
+\section*{Certifications}
+\begin{itemize}[leftmargin=*, noitemsep]
+  \item Full Stack Web Development – Sololearn
+  \item Git & GitHub Essentials – LinkedIn Learning
+\end{itemize}
+
+% Strengths
+\section*{Strengths}
+\begin{itemize}[leftmargin=*, noitemsep]
+  \item Quick Learner, Problem-Solver, Strong Communication, Team Collaboration
+  \item Passionate about building real-world projects and learning new tech
+\end{itemize}
+
+% Languages
+\section*{Languages Known}
+English, Hindi, Tamil basic,Nepali
+
+\end{document}
+
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\end{document}
